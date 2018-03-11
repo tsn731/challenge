@@ -1,0 +1,308 @@
+[
+  {
+    "street_number": "200",
+    "street_name": "CAVALIER",
+    "city": "Burlington",
+    "sale_price": 279000
+  },
+  {
+    "street_number": "5515",
+    "street_name": "DAVIS",
+    "city": "San Francisco",
+    "sale_price": 218900
+  },
+  {
+    "street_number": "309",
+    "street_name": "POLO PONY",
+    "city": "Burlington",
+    "sale_price": 250000
+  },
+  {
+    "street_number": "16",
+    "street_name": "PRESTONWOOD",
+    "city": "Lakeway",
+    "sale_price": 322900
+  },
+  {
+    "street_number": "339",
+    "street_name": "PORTSMOUTH",
+    "city": "San Mateo",
+    "sale_price": 157000
+  },
+  {
+    "street_number": "1603",
+    "street_name": "ENFIELD",
+    "city": "San Francisco",
+    "sale_price": 291115
+  },
+  {
+    "street_number": "10316",
+    "street_name": "ALFRED",
+    "city": "San Francisco",
+    "sale_price": 230000
+  },
+  {
+    "street_number": "205",
+    "street_name": "DUNKELD",
+    "city": "Spicewood",
+    "sale_price": 275000
+  },
+  {
+    "street_number": "5608",
+    "street_name": "FORT BENTON",
+    "city": "San Francisco",
+    "sale_price": 429000
+  },
+  {
+    "street_number": "2406",
+    "street_name": "ROSEGLEN",
+    "city": "Cedar Park",
+    "sale_price": 164500
+  },
+  {
+    "street_number": "19302",
+    "street_name": "ANNA KATE",
+    "city": "Pflugerville",
+    "sale_price": 204900
+  },
+  {
+    "street_number": "11709",
+    "street_name": "LARCH VALLEY",
+    "city": "San Francisco",
+    "sale_price": 164950
+  },
+  {
+    "street_number": "405",
+    "street_name": "JORDAN",
+    "city": "Daly City",
+    "sale_price": 173900
+  },
+  {
+    "street_number": "13420",
+    "street_name": "LYNDHURST",
+    "city": "San Francisco",
+    "sale_price": 155900
+  },
+  {
+    "street_number": "2701",
+    "street_name": "35TH",
+    "city": "San Francisco",
+    "sale_price": 1625000
+  },
+  {
+    "street_number": "98",
+    "street_name": "SAN JACINTO",
+    "city": "San Francisco",
+    "sale_price": 825000
+  },
+  {
+    "street_number": "1913",
+    "street_name": "BUFFALO SPEEDWAY",
+    "city": "Leander",
+    "sale_price": 525000
+  },
+  {
+    "street_number": "54",
+    "street_name": "RAINEY",
+    "city": "San Francisco",
+    "sale_price": 375900
+  },
+  {
+    "street_number": "1005",
+    "street_name": "SEDALIA",
+    "city": "Cedar Park",
+    "sale_price": 329900
+  },
+  {
+    "street_number": "2300",
+    "street_name": "ERICA KAITLIN",
+    "city": "Cedar Park",
+    "sale_price": 329900
+  },
+  {
+    "street_number": "2232",
+    "street_name": "FERNSPRING",
+    "city": "Santa Clara",
+    "sale_price": 335000
+  },
+  {
+    "street_number": "2210",
+    "street_name": "SETTLERS PARK",
+    "city": "Santa Clara",
+    "sale_price": 239900
+  },
+  {
+    "street_number": "1818",
+    "street_name": "WHITE INDIGO",
+    "city": "Santa Clara",
+    "sale_price": 184900
+  },
+  {
+    "street_number": "175",
+    "street_name": "BLAZING STAR",
+    "city": "San Francisco",
+    "sale_price": 430900
+  },
+  {
+    "street_number": "211",
+    "street_name": "JACK NICKLAUS",
+    "city": "San Francisco",
+    "sale_price": 979000
+  },
+  {
+    "street_number": "304",
+    "street_name": "CHAMPIONS",
+    "city": "San Mateo",
+    "sale_price": 329000
+  },
+  {
+    "street_number": "315",
+    "street_name": "PRIVATE ROAD 7272",
+    "city": "Mineola",
+    "sale_price": 302900
+  },
+  {
+    "street_number": "10904",
+    "street_name": "VETTERS",
+    "city": "San Francisco",
+    "sale_price": 242160
+  },
+  {
+    "street_number": "2701",
+    "street_name": "35TH",
+    "city": "San Francisco",
+    "sale_price": 1755000
+  },
+  {
+    "street_number": "1346",
+    "street_name": "RAINBOW PARKE",
+    "city": "Santa Clara",
+    "sale_price": 165000
+  },
+  {
+    "street_number": "1031",
+    "street_name": "SUNFLOWER",
+    "city": "Sunset Valley",
+    "sale_price": 439000
+  },
+  {
+    "street_number": "2303",
+    "street_name": "FAIRHILL",
+    "city": "Cedar Park",
+    "sale_price": 185000
+  },
+  {
+    "street_number": "594",
+    "street_name": "SADDLEBACK",
+    "city": "San Francisco",
+    "sale_price": 410000
+  },
+  {
+    "street_number": "3310",
+    "street_name": "SAINT GENEVIEVE",
+    "city": "Leander",
+    "sale_price": 174000
+  },
+  {
+    "street_number": "219",
+    "street_name": "STILL HOLLOW",
+    "city": "Buda",
+    "sale_price": 251810
+  },
+  {
+    "street_number": "769",
+    "street_name": "BARTLETT",
+    "city": "Buda",
+    "sale_price": 448500
+  },
+  {
+    "street_number": "219",
+    "street_name": "CANYON TURN",
+    "city": "Lakeway",
+    "sale_price": 2980000
+  },
+  {
+    "street_number": "122",
+    "street_name": "WHISPERING VALLEY",
+    "city": "Wimberley",
+    "sale_price": 199000
+  },
+  {
+    "street_number": "80",
+    "street_name": "WHITE MAGNOLIA",
+    "city": "San Francisco",
+    "sale_price": 299000
+  },
+  {
+    "street_number": "1603",
+    "street_name": "SUNDOWN",
+    "city": "San Francisco",
+    "sale_price": 237546
+  },
+  {
+    "street_number": "1908",
+    "street_name": "KAHALA SUNSET",
+    "city": "Spicewood",
+    "sale_price": 960000
+  },
+  {
+    "street_number": "4219",
+    "street_name": "FAIRMEADOW",
+    "city": "Santa Clara",
+    "sale_price": 297224
+  },
+  {
+    "street_number": "2540",
+    "street_name": "COUNTY ROAD 289",
+    "city": "San Mateo",
+    "sale_price": 284000
+  },
+  {
+    "street_number": "4727",
+    "street_name": "PALISADE",
+    "city": "San Francisco",
+    "sale_price": 718000
+  },
+  {
+    "street_number": "2314",
+    "street_name": "KEEGANS",
+    "city": "Cedar Park",
+    "sale_price": 204000
+  },
+  {
+    "street_number": "182",
+    "street_name": "EMMA",
+    "city": "Redwood Springs",
+    "sale_price": 532043
+  },
+  {
+    "street_number": "1851",
+    "street_name": "COUNTY ROAD 234",
+    "city": "San Mateo",
+    "sale_price": 618975
+  },
+  {
+    "street_number": "144",
+    "street_name": "WINDY MEADOWS",
+    "city": "Mountain View",
+    "sale_price": 599000
+  },
+  {
+    "street_number": "4191",
+    "street_name": "WESTLAKE",
+    "city": "San Francisco",
+    "sale_price": 1075000
+  },
+  {
+    "street_number": "2004",
+    "street_name": "WINDY",
+    "city": "Cedar Park",
+    "sale_price": 729900
+  },
+  {
+    "street_number": "8702",
+    "street_name": "CULLEN",
+    "city": "San Francisco",
+    "sale_price": 495000
+  }
+]

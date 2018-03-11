@@ -1,0 +1,24 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Area</th>
+        <th scope="col">Total Listings</th>
+        <th scope="col">Average Sale Price</th>
+        <th scope="col">Median Sale Price</th>
+      </tr>
+    </thead>
+
+    {% for item in report %}
+    <tr scope="row">
+      <td>{{item.city}}</td>
+      <td>{{item.total_listings}}</td>
+      <td>{{item.average_price}}</td>
+      <td>{{item.median}}</td>
+    </tr>
+  {% endfor %}
+  </table>
+
+{% endblock %}
